@@ -27,6 +27,7 @@
     "@angular/router": "6.1.2",
     "@ngx-progressbar/core": "^5.1.2",
     "@ngx-progressbar/router": "^5.1.2",
+    "@ngx-progressbar/http": "^5.2.1",    
     "@ngx-translate/core": "^10.0.2",
     "@ngx-translate/http-loader": "^3.0.1",
     "ajv-keywords": "^3.2.0",

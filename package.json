@@ -48,7 +48,8 @@
     "rxjs-compat": "^6.2.2",
     "zone.js": "^0.8.26",
     "ngx-perfect-scrollbar": "^5.0.0",
-    "ngx-treeview": "^6.0.2"
+    "ngx-treeview": "^6.0.2",
+    "html2canvas: "^1.0.0-rc.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.7.1",
